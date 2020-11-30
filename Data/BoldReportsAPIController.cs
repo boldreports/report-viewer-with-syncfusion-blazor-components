@@ -7,7 +7,6 @@ using System.Collections.Generic;
 namespace BlazorReportingTools.Data
 {
     [Route("api/{controller}/{action}/{id?}")]
-    [ApiController]
     public class BoldReportsAPIController : ControllerBase, IReportController
     {
         // Report viewer requires a memory cache to store the information of consecutive client requests and
