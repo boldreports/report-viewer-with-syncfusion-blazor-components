@@ -1,20 +1,35 @@
-# How to use Bold Reports Report Viewer Component with Syncfusion Blazor Components
+# Blazor Reporting Components in Bold Reports
+
+This repository contains example about how to integrate our Bold Reports HTML5/JavaScript [`Report Viewer`](https://www.boldreports.com/embedded/reporting-tools/javascript/report-viewer) and [`Report Designer`](https://www.boldreports.com/embedded/reporting-tools/javascript/report-designer) into [`Blazor`](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) application.
 
 ## Prerequisites
 
-* Visual Studio 2019 with ASP.NET and Web development workloads.
-* .NET Core 3.0+ Framework.
-* [Bold Reports Embedded or Viewer SDK subscription](https://www.boldreports.com/pricing/embedded)
+Before getting started with bold reports, make sure your development environment includes the following requirements.
 
-## Integration
+* [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/) with ASP.NET and Web Development workloads.
+* [.NET Core 3.1](https://dotnet.microsoft.com/download) Framework.
 
-To integrate the Report Viewer component with the Syncfusion Blazor components, we recommend you to refer the below blog link.
+## Running the App
 
-[How to Use Report Viewer Control with Essential JS 2 Controls](https://www.boldreports.com/blog/how-to-use-report-viewer-control-with-syncfusion-blazor-controls)
+* Open the solution file `BlazorReportingTools.sln` in Visual studio 2019.
 
-## How to run the application
+* Press `F5` in Visual Studio. Visual Studio will launch your browser for you.
 
-* Open the solution using Visual Studio 2019.
-* Restore the required Nuget packages.
-* Press F5 or or by clicking the Start button.
-* This will launch the application in browser.
+* Navigate to [https://localhost:51885/ReportViewer](https://localhost:51885/ReportViewer) to view a report in Report Viewer.
+
+* Navigate to [https://localhost:51885/ReportDesigner](https://localhost:51885/ReportDesigner) to edit a report in Report Designer.
+
+## Online Demos
+
+Take a look at the Bold Reporting Components live demo [here](https://demos.boldreports.com/home/).
+
+## Documentation
+
+A complete Bold Reports documentation can be found on [Bold Reports Help](https://documentation.boldreports.com/).
+
+## Support and Feedback
+
+* For any other queries, reach our [Bold Reports support team](mailto:support@boldreports.com) or [Feedback portal](https://www.boldreports.com/feedback/).
+
+* To renew the subscription, click [here](https://www.boldreports.com/pricing/on-premise) or contact our sales team at <https://www.boldreports.com/contact>.
+
