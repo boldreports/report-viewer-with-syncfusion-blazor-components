@@ -10,7 +10,7 @@
 
 To integrate the Report Viewer component with the Syncfusion Blazor components, we recommend you to refer the below blog link.
 
-[How to Use Report Viewer Control with Essential JS 2 Controls](https://www.boldreports.com/blog/how-to-use-report-viewer-control-with-syncfusion-blazor-controls)
+[How to Use Report Viewer Control with Essential JS 2 Controls](https://www.boldreports.com/blog/how-to-use-report-viewer-component-with-syncfusion-blazor-components)
 
 ## How to run the application
 
