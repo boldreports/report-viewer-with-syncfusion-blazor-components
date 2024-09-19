@@ -4,13 +4,13 @@
 
 * Visual Studio 2019 with ASP.NET and Web development workloads.
 * .NET Core 3.0+ Framework.
-* [Bold Reports Embedded or Viewer SDK subscription](https://www.boldreports.com/pricing/embedded)
+* [Bold Reports Embedded or Viewer SDK subscription](https://www.boldreports.com/pricing/?utm_source=github&utm_medium=backlinks)
 
 ## Integration
 
 To integrate the [Report Viewer](https://www.boldreports.com/embedded-reporting/blazor-report-viewer?utm_source=github&utm_medium=backlinks) component with the Syncfusion Blazor components, we recommend you to refer the below blog link.
 
-[How to Use Report Viewer Control with Essential JS 2 Controls](https://www.boldreports.com/blog/how-to-use-report-viewer-component-with-syncfusion-blazor-components)
+[How to Use Report Viewer Control with Essential JS 2 Controls](https://www.boldreports.com/blog/how-to-use-report-viewer-component-with-syncfusion-blazor-components/?utm_source=github&utm_medium=backlinks)
 
 ## How to run the application
 
